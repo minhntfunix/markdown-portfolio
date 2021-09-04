@@ -1,4 +1,4 @@
-- *Apple*
+- _Apple_
 - **Video games**
 - _**Grapes**_
   
